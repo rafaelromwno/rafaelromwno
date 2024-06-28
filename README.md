@@ -1,16 +1,19 @@
-## Hi there 👋
+## Eai, pessoal! 🤝🏽 Seja Bem vindo ao meu perfil 👋
+# Me chamo **Rafael**, sou um estudante na área de tecnologia! 
 
-<!--
-**rafaelromwno/rafaelromwno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📫 Como entrar em contato comigo? 
+- LinkedIn <a href="linkedin.com/in/rafael-r-b790a82b6" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+            </a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Estou Aprendendo
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
+          
+          
+
+
