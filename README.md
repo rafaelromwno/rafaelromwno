@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil 🤝🏽
+# 🤝🏽
 ## Estou Aprendendo
 
 ### Linguagens
