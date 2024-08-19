@@ -1,22 +1,34 @@
-# 🤝🏽
-## Estou Aprendendo
+# Olá! Eu sou Rafael 👋
 
-### Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />
+**Estudante de Tecnologia | 2º Semestre**
 
-### Ferramentas e Tecnologias
+## 🐱‍👤 Aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <i class="devicon-github-original"  width="40" height="40"></i> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>
+Aqui estão algumas das linguagens, frameworks e ferramentas com as quais estou me familiarizando:
 
+- **Desenvolvimento Web**: 
+  - HTML5
+  - CSS3
+ 
+- **Linguagens de Programação**: 
+  - JavaScript
+  - C#
+  
+- **Frameworks e Bibliotecas**: 
+  - Bootstrap
 
-          
-          
-          
-          
-          
-          
-          
-          
-          
+- **Ferramentas**:
+  - Figma
+  - SQL Server
+  - GitHub
+  - GIMP
+  - Notion
 
+## 📫 Como entrar em contato
 
+- [LinkedIn](www.linkedin.com/in/rafael-romano-silva)
+- Email: romanosilvarafael@gmail.com
+
+---
+
+Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Sinta-se à vontade para entrar em contato!
