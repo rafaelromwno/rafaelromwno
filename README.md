@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-line-wordmark.svg" height="40" alt="handlebars logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
