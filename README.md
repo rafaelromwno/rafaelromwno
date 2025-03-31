@@ -42,6 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="5" />
 
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="5" />
+
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="5" />
   
