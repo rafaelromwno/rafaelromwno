@@ -1,93 +1,68 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Multiplatform Software Development Student</h3>
+<!-- Banner -->
+<div align="center">
+  
+# 👋 Hi, I'm Rafael  
 
-- 📫 How to reach me **romanosilvarafael@gmail.com**
-<hr>
+🎓 Multiplatform Software Development Student  
 
-<h3 align="left">Connect with me:</h3>
+</div>
 
+---
+
+## 🚀 About Me
+- 👨‍🏫 Teaching assistant in **Algorithms & Logic (JavaScript)**  
+- 🌍 Building [Cidade Integra](#) — an urban issue reporting platform aligned with **UN SDG 11**  
+- 📫 Reach me at: **romanosilvarafael@gmail.com**
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
-
   <a href="https://www.linkedin.com/in/rafael-romano-silva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
 </p>
 
-<h3 align="left">Languages ​​and tools I'm learning:</h3>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite" height="40"/>
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,cs,dotnet" height="40"/>
+
+**Databases & Cloud**  
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,aws" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40"/>
+
+**Tools & Others**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,visualstudio,vscode" height="40"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelromwno&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelromwno&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🏆 Highlights
+- 🚧 **Cidade Integra** → Connecting citizens to urban management  
+- 📚 Exploring **SOLID principles & DDD**  
+- 🎯 Interested in **software architecture, clean code, and scalable solutions**
+
+---
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="5" />
+The samurai must always rise and move forward, because new challenges will come - Lyoto Machida  
 
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="5" />
-
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="5" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="5" />
-
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="5" />
-
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
-  <img width="5" />
-
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="5" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="5" />
-  
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-<br>
-
-<h3 align="left">Most Used Languages: </h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelromwno&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
