@@ -3,11 +3,11 @@
   
 # 👋 Hi, I'm Rafael  
 
-🎓 Multiplatform Software Development Student  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3AB4F2&center=true&vCenter=true&width=650&lines=Software+Development+Student;Full-Stack+Developer+in+Progress;Passionate+about+DevOps+and+Cloud)](https://git.io/typing-svg)
+
 
 </div>
 
----
 
 ## 🚀 About Me
 - 👨‍🏫 Teaching assistant in **Algorithms & Logic (JavaScript)**  
